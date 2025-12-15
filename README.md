@@ -185,7 +185,7 @@ git clone https://github.com/Thefaizanhassan/Banking_Management_System.git
 ### Step 2️⃣ Navigate to Project Directory
 
 ```bash
-cd Banking_Management_System
+cd BankingManagementSystem
 ```
 
 ---
